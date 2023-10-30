@@ -103,7 +103,7 @@ Este projeto está sob a licença MIT.
 
 ---
 
-Feito com 💜 by Madalena 👋🏾
+Creater By André Luis
 
 <div style="display: flex;">
   <a href="https://www.linkedin.com/in/madalena-machado-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 2vw" target="_blank"></a>
