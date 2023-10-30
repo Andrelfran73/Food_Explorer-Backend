@@ -55,7 +55,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 <h2 id="usage">💡 Utilização</h2>
 
-O back-end do projeto está hospedado no endereço https://food-explorer-backend-oxwh.onrender.com. A aplicação Food Explorer está disponível para uso [aqui](https://food-explorer-frontend-80e47f.netlify.app/).
+A aplicação Food Explorer está disponível para uso [aqui](https://food-explorer-frontend-80e47f.netlify.app/).
 
 ⚠️ **Importante**: Este projeto utiliza uma hospedagem gratuita para o back-end, portanto, pode haver atrasos no tempo de resposta do servidor.
 
@@ -64,7 +64,7 @@ Você também pode executá-lo em sua máquina localmente. Certifique-se de ter 
 1. Clone o projeto:
 
 ```
-$ git clone https://github.com/madalena-rocha/food-explorer-backend
+$ git clone https://github.com/Andrelfran73/Food_Explorer-Backend/
 ```
 
 2. Acesse a pasta do projeto:
